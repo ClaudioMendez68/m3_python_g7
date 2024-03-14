@@ -1,5 +1,9 @@
 from math import  sqrt
 
+print("*****************************************")
+print("        VELOCIDAD MÍNIMA DE ESCAPE")
+print("*****************************************")
+
 g = float(input("Ingrese la constante gravitacional del planeta en [m/s2]: "))
 radio = float(input("Ingrese el radio del planeta en [Kms]: "))
 
