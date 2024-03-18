@@ -1,0 +1,6 @@
+INICIO
+LEER diagonal_mayor
+LEER diagonal_menor
+ASIGNAR area = diagonal_mayor*diagonal_menor/2
+MOSTRAR area
+FIN

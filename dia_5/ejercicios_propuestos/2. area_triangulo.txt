@@ -1,0 +1,6 @@
+INICIO
+LEER base
+LEER altura
+ASIGNAR area = base*altura/2
+MOSTRAR area
+FIN

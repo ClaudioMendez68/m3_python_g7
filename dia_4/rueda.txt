@@ -1,0 +1,33 @@
+solicitar al usuario en ingreso de 3 numeros y determinar cuales de ellos es mayor que 33
+solo numeros enteros 1 al 100 y determinar cual es mayor y cual es menor
+
+INICIO
+
+    LEER numero_1
+    COMPARAR SI numero_1 es mayor que 0 y SI numero_1 es menor o igual que 100
+    [NO] --> MOSTRAR Sólo se admiten números enteros del 1 al 100
+             LEER numero_1
+    [SI] --> COMPARAR SI numero_1 es mayor que 33
+            [SI] --> ASIGNAR numeros_mayores
+            [NO] --> ASIGNAR numeros_menores
+
+    LEER numero_2
+    COMPARAR SI numero_2 es mayor que 0 y SI numero_2 es menor o igual que 100
+    [NO] --> MOSTRAR Sólo se admiten números enteros del 1 al 100
+             LEER numero_2
+    [SI] --> COMPARAR SI numero_2 es mayor que 33
+            [SI] --> ASIGNAR numeros_mayores
+            [NO] --> ASIGNAR numero_menores
+
+    LEER numero_3
+    COMPARAR SI numero_3 es mayor que 0 y SI numero_3 es menor o igual que 100
+    [NO] --> MOSTRAR Sólo se admiten números enteros del 1 al 100
+             LEER numero_3
+    [SI] --> COMPARAR SI numero_3 es mayor que 33
+            [SI] --> ASIGNAR numeros_mayores
+            [NO] --> ASIGNAR numeros_menores
+
+    MOSTRAR numeros_mayores
+    MOSTAR numeros_menores
+
+FIN

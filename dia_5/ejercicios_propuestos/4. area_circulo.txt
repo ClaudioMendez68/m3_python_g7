@@ -1,0 +1,6 @@
+INICIO
+ASIGNAR PI= 3.14
+LEER radio
+ASIGNAR area = PI*radio*PI*radio
+MOSTRAR area
+FIN
