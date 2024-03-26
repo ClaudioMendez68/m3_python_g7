@@ -27,7 +27,12 @@ notas2 = {
 print(len(notas2))
 print(notas2)
 
-""" duplicados = {'clave': 1, 'clave': 2}
+notas2["Julio"] = 4
+print(notas2)
+notas2["Julio"] = 5
+print(notas2)
+
+duplicados = {'clave': 1, 'clave': 2}
 print(duplicados)
 
 diccionario2 = {'llave 1': 5}
@@ -36,4 +41,4 @@ diccionario2['llave 2'] = 9
 print(diccionario2)
 
 diccionario2['llave 2'] = 7
-print(diccionario2) """
+print(diccionario2)
